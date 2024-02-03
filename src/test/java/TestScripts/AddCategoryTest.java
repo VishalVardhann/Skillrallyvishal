@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
-
+// This Method is script
 public class AddCategoryTest extends BaseClass {
 	@Test
 	public void addCategoryTest() {
